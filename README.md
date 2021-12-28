@@ -1,7 +1,6 @@
-# Model Project Structure
+# OutSystems Platform Automation
 
-Template repository with my baseline project directory structure and
-a simple helper script for encrypting secrets.
+Automates an OutSystems Platform installation on (at least for now) vSphere
 
 ## Directories
 
